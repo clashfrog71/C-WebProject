@@ -30,6 +30,7 @@ void ExibirLogo()
 }
 
 void ExibirOpcoesDoMenu()
+
 {
     ExibirLogo();
     Console.WriteLine("\nDigite 1 para registrar um artista");
